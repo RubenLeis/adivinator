@@ -16,7 +16,7 @@ Para que 'motivo'
 
 ## Mi primera historia de usuario (el qué)
 
-Como profesores del aula de DWEC queremos disponer de una aplicación que genere un número aleatorio [1,5] y lo comparé con el número introducido por nosotros a través de un formulario, indicando si hemos acertado o no. Queremos que realice este desarrollo para convencer a 'Rapael' que te si tenemos capacidades adivinatorias.
+Como profesores del módulo de DWEC queremos disponer de una aplicación que genere un número aleatorio [1-5] y lo comparé con el número introducido por nosotros a través de un formulario, indicando si hemos acertado o no. Queremos que realice este desarrollo para convencer a 'Rapael' que te si tenemos capacidades adivinatorias.
 
 
 ## Mi primera tarea (el cómo)
@@ -27,13 +27,13 @@ Al ser una historia pequeña, podemos crear solo una tarea
 
 ### Adivinator Task
 
-Desarrollaremos una app llamada adivinator en ReactJS.
-Está aplicación cumplirá con los siguientes requisitos:
+Desarrollaremos un nuevo componente que agregaremos a nuestro App.js con el que hemos estado trabajando este Sprint.
+Está componen te cumplirá con los siguientes requisitos:
 
  * A) [60%] Habrá un formulario que permitirá al usuario ingresar un número. Cuando el usuario pulse en el botón enviar, la aplicación generará un número aleatorio [1-5] que comparará con el ingresado por el usuario. 
     * Si el número ingresado es igual al generado aleatoriamente: se mostrará un mensaje indicado que hemos acertado.
     * Si el número ingresado no es igual al generado, mostraremos un mensaje indicando que hemos fallado y cual ha sido el número generado, para así demostrar que no se está haciendo trampa.
-* B) [10%] Acompañaremos nuestro código con una imagen de nuestro adivino o personaje famoso favorito.
+* B) [10%] Acompañaremos nuestro código con una imagen de nuestro adivino o personaje  favorito.
 * C) [10%] Aplicaremos cierto estilo a nuestro formulario, para que se adecue en tanto la imagen como el resto de componentes.
 * D) [10%] Limpieza y claridad de código.
 
