@@ -34,8 +34,8 @@ class Adivinator extends React.Component {
         //Generamos el valor random y lo comparamos con el establecido por el usuario
         let randomValue = this.randomNumber(0,5);
         let message = ''
-        console.log('userValue:'+this.state.userValue);
-        console.log('randomValue:'+randomValue)
+        //console.log('userValue:'+this.state.userValue);
+        //console.log('randomValue:'+randomValue)
         if (parseInt(this.state.userValue) === randomValue) {
             message="Enhorabuena! Has acertado"
         } else {
@@ -54,7 +54,7 @@ class Adivinator extends React.Component {
      */
     render() {
         return (
-            <div>
+            <div className='mainLayout'>
                 <form onSubmit={this.handleSubmit}>
                     <img id="imagenAdivino" alt="imagen adivino"  className='adivinoImage' src={require('./rappel.jpg')} />
                     <div>
