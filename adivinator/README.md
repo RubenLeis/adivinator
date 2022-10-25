@@ -16,7 +16,7 @@ Para que 'motivo'
 
 ## Mi primera historia de usuario (el qué)
 
-Como profesores del módulo de DWEC queremos disponer de una aplicación que genere un número aleatorio [1-5] y lo comparé con el número introducido por nosotros a través de un formulario, indicando si hemos acertado o no. Queremos que realice este desarrollo para convencer a 'Rapael' que te si tenemos capacidades adivinatorias.
+Como profesores del módulo de DWEC queremos disponer de una aplicación que genere un número aleatorio [1-5] y lo comparé con el número introducido por nosotros a través de un formulario, indicará si hemos acertado o no. Queremos que se realice este desarrollo para convencer a 'Rapael' de que  tenemos capacidades adivinatorias como él.
 
 
 ## Mi primera tarea (el cómo)
@@ -42,7 +42,6 @@ Este componente cumplirá con los siguientes requisitos:
     * Haya las funciones necesarias y el código esté bien estructurado
 
 ## Wiki
-
 
 https://www.javiergarzas.com/2017/02/historias-vs-tareas-una-sutil-e-importante-diferencia.html
 
